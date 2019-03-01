@@ -13,7 +13,7 @@ package lab6;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Thong Nguyen's version 2.0");
-        System.out.println("Zarni's version 0.1");
+        System.out.println("Zarni's version 0.2");
         System.out.println("Eric version 111111");
         System.out.println("Myo version");
 
