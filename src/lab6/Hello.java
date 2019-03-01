@@ -17,7 +17,6 @@ public class Hello {
         System.out.println("Zarni's version 1.2");
         System.out.println("Zarni's version 2.0");
         System.out.println("Eric version 111111 master");
-        System.out.println("Eric version 111111 newbranch");
         System.out.println("Myo version.1.1.111");
     }
 }
